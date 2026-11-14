@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+BAO_CAO_DLF_TINYML__ESP32_DRONE_FINAL.md
